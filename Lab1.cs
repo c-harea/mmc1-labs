@@ -1,6 +1,3 @@
-﻿using System;
-using System.Threading;
-
 namespace MMC1
 {
     class SplitIntMethod : ILabs
